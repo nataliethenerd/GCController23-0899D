@@ -1,6 +1,9 @@
 # Game Cube Controller 23-0899D reverse engineer
 
-**ORDER AT 1MM WITH ENIG**
+![gcc](https://github.com/user-attachments/assets/f32a0499-9ba3-4173-843c-be8b59d13f22)
+
+
+**ORDER WITH ENIG**
 
 Thanks to the people who have supported me on Ko-Fi, you've made this possible! 
 
@@ -9,6 +12,8 @@ You can support me on Ko-Fi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12T33R)
 
 ## Scans
+
+HD scans of the original board can be found [here](https://github.com/nataliethenerd/boardscans/tree/main/GCC-23-0899D)
 
 **My socials**
 
